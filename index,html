@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+    <head>
+          <title>Add to Cart Challenge</title>
+           <!-- link to your index.css file -->
+    </head>
+    <body>
+         <!--Create an input of type text with the id "input-field" and a placeholder set to "food"-->
+         <!--Create a button with the id "add-button" and with the text that says Add to cart-->
+         <!-- link to your index.js file -->
+    </body>
+</html>
